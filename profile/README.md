@@ -1,6 +1,6 @@
 ## F5 XC Playground
 
-Community tools and integrations for [F5 Distributed Cloud](https://www.f5.com/cloud). Built by F5 engineers solving their own problems — nothing official, everything useful.
+Community tools and integrations for [F5 Distributed Cloud](https://www.f5.com/cloud). Built by F5 engineers solving their own problems — nothing official, everything (hopefully) useful.
 
 ---
 
